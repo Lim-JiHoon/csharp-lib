@@ -1,0 +1,14 @@
+C:\c#\git\HoonsLib\HoonsLib\obj\Debug\net6.0-windows\HoonsLib.csproj.AssemblyReference.cache
+C:\c#\git\HoonsLib\HoonsLib\obj\Debug\net6.0-windows\HoonsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\git\HoonsLib\HoonsLib\obj\Debug\net6.0-windows\HoonsLib.AssemblyInfoInputs.cache
+C:\c#\git\HoonsLib\HoonsLib\obj\Debug\net6.0-windows\HoonsLib.AssemblyInfo.cs
+C:\c#\git\HoonsLib\HoonsLib\obj\Debug\net6.0-windows\HoonsLib.csproj.CoreCompileInputs.cache
+C:\c#\git\HoonsLib\HoonsLib\bin\Debug\net6.0-windows\HoonsLib.deps.json
+C:\c#\git\HoonsLib\HoonsLib\bin\Debug\net6.0-windows\HoonsLib.dll
+C:\c#\git\HoonsLib\HoonsLib\bin\Debug\net6.0-windows\HoonsLib.pdb
+C:\c#\git\HoonsLib\HoonsLib\obj\Debug\net6.0-windows\HoonsLib.dll
+C:\c#\git\HoonsLib\HoonsLib\obj\Debug\net6.0-windows\refint\HoonsLib.dll
+C:\c#\git\HoonsLib\HoonsLib\obj\Debug\net6.0-windows\HoonsLib.pdb
+C:\c#\git\HoonsLib\HoonsLib\obj\Debug\net6.0-windows\ref\HoonsLib.dll
+C:\c#\git\HoonsLib\HoonsLib\bin\Debug\net6.0-windows\HoonsLib.runtimeconfig.json
+C:\c#\git\HoonsLib\HoonsLib\obj\Debug\net6.0-windows\HoonsLib.genruntimeconfig.cache
